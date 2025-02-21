@@ -11,7 +11,7 @@ COPY . .
 RUN ./mvnw clean package -DskipTests
 
 # Copy the built JAR file to the container
-COPY target/aids-0.0.1-SNAPSHOT.jar app.jar
+COPY ./target/aids-0.0.1-SNAPSHOT.jar app.jar
 
 # Expose the port your Spring Boot app runs on
 EXPOSE 8080
