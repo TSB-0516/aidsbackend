@@ -1,5 +1,5 @@
 # Use OpenJDK as the base image
-FROM maven:3.8.5-openjdk-17 AS build
+FROM maven:3.8.5-openjdk-21 AS build
 COPY . .
 RUN mvn clean package -DskipTests
 FROM openjdk:17-jdk-slim
