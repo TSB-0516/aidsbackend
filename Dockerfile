@@ -1,14 +1,20 @@
-# Use an official OpenJDK runtime as a parent image
+# Use OpenJDK as the base image
 FROM openjdk:17-jdk-slim
 
-# Set the working directory in the container
+# Set the working directory inside the container
 WORKDIR /app
 
-# Copy the built JAR file from target directory to the container
+# Copy Maven wrapper and source code
+COPY . .
+
+# Build the JAR file
+RUN ./mvnw clean package -DskipTests
+
+# Copy the built JAR file to the container
 COPY target/aids-0.0.1-SNAPSHOT.jar app.jar
 
-# Expose the port your Spring Boot app runs on (default 8080)
+# Expose the port your Spring Boot app runs on
 EXPOSE 8080
 
-# Run the JAR file
+# Run the application
 CMD ["java", "-jar", "app.jar"]
