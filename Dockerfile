@@ -1,20 +1,25 @@
 # Use OpenJDK as the base image
+FROM maven:3.8.5-openjdk-17 AS build
+COPY . .
+RUN mvnw clean package -DskipTests
 FROM openjdk:17-jdk-slim
+COPY --from=build /target/aids-0.0.1-SNAPSHOT.jar aids.jar
+EXPOSE 8080
+CMD ["java", "-jar", "aids.jar"]
 
 # Set the working directory inside the container
-WORKDIR /app
 
 # Copy Maven wrapper and source code
-COPY . .
+
 
 # Build the JAR file
-RUN ./mvnw clean package -DskipTests
+
 
 # Copy the built JAR file to the container
-COPY ./target/aids-0.0.1-SNAPSHOT.jar app.jar
+
 
 # Expose the port your Spring Boot app runs on
-EXPOSE 8080
+
 
 # Run the application
-CMD ["java", "-jar", "app.jar"]
+
