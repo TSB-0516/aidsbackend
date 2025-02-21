@@ -1,0 +1,59 @@
+[
+    {
+        "lastUpdated": 1740140958404,
+        "archivedAt": 1740140958404,
+        "nextAffiliateUpdate": 1740652816220,
+        "leaderboard": [
+            {
+                "wager": 8308089,
+                "bets": 39,
+                "user": {
+                    "id": 25287,
+                    "username": "1zm",
+                    "displayName": null,
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=474359"
+                }
+            },
+            {
+                "wager": 336034,
+                "bets": 322,
+                "user": {
+                    "id": 17785,
+                    "username": "xblxxdy",
+                    "displayName": null,
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=385692"
+                }
+            },
+            {
+                "wager": 227465,
+                "bets": 104,
+                "user": {
+                    "id": 28347,
+                    "username": "Chris Edwards",
+                    "displayName": null,
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIDNWueNgwhH6KS8dhzuM9Hm4FqwOrEw8f8hhovPxFXdMx-ZA=s96-c"
+                }
+            },
+            {
+                "wager": 104738,
+                "bets": -113,
+                "user": {
+                    "id": 6828,
+                    "username": "bmg",
+                    "displayName": null,
+                    "avatar": "https://avatars.steamstatic.com/50b1b44ecff7aa60464fd833ca020f76e4481451_full.jpg"
+                }
+            },
+            {
+                "wager": 26449,
+                "bets": 54,
+                "user": {
+                    "id": 30304,
+                    "username": "Daaa9",
+                    "displayName": null,
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=474359"
+                }
+            }
+        ]
+    }
+]

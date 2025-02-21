@@ -1,0 +1,908 @@
+{
+    "error": false,
+    "data": {
+        "affiliate": {
+            "id": 1134,
+            "code": "AIDS",
+            "createdAt": "2025-02-08T21:45:53.050Z",
+            "claimableBalance": 251,
+            "totalEarned": 275455,
+            "totalWagered": 28064930
+        },
+        "summarizedBets": [
+            {
+                "user": {
+                    "id": 25287,
+                    "username": "1zm",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=474359"
+                },
+                "wager": 15676353,
+                "bets": 58
+            },
+            {
+                "user": {
+                    "id": 23707,
+                    "username": "soup",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=230494"
+                },
+                "wager": 3912034,
+                "bets": 265
+            },
+            {
+                "user": {
+                    "id": 7713,
+                    "username": "Jbsales",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=611696"
+                },
+                "wager": 2279534,
+                "bets": 1521
+            },
+            {
+                "user": {
+                    "id": 19,
+                    "username": "AidenGambles $55k Leaderboards",
+                    "avatar": "https://avatars.steamstatic.com/73e3d2b14c23b05f704f4b09be2ce3707c147917_full.jpg"
+                },
+                "wager": 873448,
+                "bets": 148
+            },
+            {
+                "user": {
+                    "id": 22479,
+                    "username": "PPTRADE",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=84874"
+                },
+                "wager": 422743,
+                "bets": 164
+            },
+            {
+                "user": {
+                    "id": 17785,
+                    "username": "xblxxdy",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=385692"
+                },
+                "wager": 280935,
+                "bets": 258
+            },
+            {
+                "user": {
+                    "id": 28347,
+                    "username": "Chris Edwards",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIDNWueNgwhH6KS8dhzuM9Hm4FqwOrEw8f8hhovPxFXdMx-ZA=s96-c"
+                },
+                "wager": 227602,
+                "bets": 41
+            },
+            {
+                "user": {
+                    "id": 138,
+                    "username": "DOM",
+                    "avatar": "https://avatars.steamstatic.com/717abefe1f76559ca531653782624750a58a8771_full.jpg"
+                },
+                "wager": 224067,
+                "bets": 1044
+            },
+            {
+                "user": {
+                    "id": 22955,
+                    "username": "amr ahbl",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocImkSt7GcMO5J7NaXW1z5SlCGraNWvqMUT5wGijL8rJSSQd=s96-c"
+                },
+                "wager": 212484,
+                "bets": 130
+            },
+            {
+                "user": {
+                    "id": 2593,
+                    "username": "greenmf",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=300996"
+                },
+                "wager": 136401,
+                "bets": 1238
+            },
+            {
+                "user": {
+                    "id": 327,
+                    "username": "comebackonkick",
+                    "avatar": "https://avatars.steamstatic.com/600ade53546a5d02cdb3fa8a2d1d819653ad3af9_full.jpg"
+                },
+                "wager": 133513,
+                "bets": 1286
+            },
+            {
+                "user": {
+                    "id": 17851,
+                    "username": "ajkelley203",
+                    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg"
+                },
+                "wager": 130296,
+                "bets": 26
+            },
+            {
+                "user": {
+                    "id": 176,
+                    "username": "Daryl Dixonn Rustyloot",
+                    "avatar": "https://avatars.steamstatic.com/507536df5b586e48fbbb79d0ed348e7f7e647896_full.jpg"
+                },
+                "wager": 109756,
+                "bets": 1138
+            },
+            {
+                "user": {
+                    "id": 5822,
+                    "username": "Miller Goated",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKkWmEo2EjJ3Z1G8PadylmLHb9MdaMaLwtV4bAXQEHtaaCnKQ=s96-c"
+                },
+                "wager": 91497,
+                "bets": 645
+            },
+            {
+                "user": {
+                    "id": 4979,
+                    "username": "Kole",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIIJGPI_UDXF2XmEjFGNVonw6uQZdrJC9QSVC3ZUikjjig6Vg=s96-c"
+                },
+                "wager": 81492,
+                "bets": 547
+            },
+            {
+                "user": {
+                    "id": 7653,
+                    "username": "wyatt johnson",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLdN8-RqBNHXbXr5H7Qzr-mVmUpUTZ_gRLYUIoXZUnC4Y4yhpSV=s96-c"
+                },
+                "wager": 77372,
+                "bets": 847
+            },
+            {
+                "user": {
+                    "id": 978,
+                    "username": "andre murta",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJr_aBh9Uo8ycAp-IBvCP_cun42ufQ7xQB3qEJM3LL8SIykkQ=s96-c"
+                },
+                "wager": 70313,
+                "bets": 55
+            },
+            {
+                "user": {
+                    "id": 16277,
+                    "username": "maxwin",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=651809"
+                },
+                "wager": 60949,
+                "bets": 52
+            },
+            {
+                "user": {
+                    "id": 611,
+                    "username": "TensyDžache",
+                    "avatar": "https://avatars.steamstatic.com/58a636fa0bde01087c2b2f91aba0070eb64068d6_full.jpg"
+                },
+                "wager": 59756,
+                "bets": 336
+            },
+            {
+                "user": {
+                    "id": 17343,
+                    "username": "C181",
+                    "avatar": "https://avatars.steamstatic.com/28a4258678d84c236e62e7adf7ae2090e465fbde_full.jpg"
+                },
+                "wager": 59418,
+                "bets": 23
+            },
+            {
+                "user": {
+                    "id": 1874,
+                    "username": "conjure",
+                    "avatar": "https://avatars.steamstatic.com/e7ba9aeca186b4443b50ecb448dfb7f79b082a0c_full.jpg"
+                },
+                "wager": 56445,
+                "bets": 327
+            },
+            {
+                "user": {
+                    "id": 6828,
+                    "username": "bmg",
+                    "avatar": "https://avatars.steamstatic.com/50b1b44ecff7aa60464fd833ca020f76e4481451_full.jpg"
+                },
+                "wager": 55280,
+                "bets": 439
+            },
+            {
+                "user": {
+                    "id": 5418,
+                    "username": "AskoAron pu",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocImzBmWXp3yt65JGSt-2HN7Lfq1cPWsveaIBF0eWuFw8qWJ1eTF=s96-c"
+                },
+                "wager": 52639,
+                "bets": 127
+            },
+            {
+                "user": {
+                    "id": 3196,
+                    "username": "Jan Pojka",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKJ1GABbKsyBC8ewyrEam_r5MXr-Pp_Z_yV6slvN8XZJE7mnw=s96-c"
+                },
+                "wager": 41272,
+                "bets": 133
+            },
+            {
+                "user": {
+                    "id": 3569,
+                    "username": "minerdiscovery",
+                    "avatar": "https://avatars.steamstatic.com/670537dde7fe05d1a2bd377ac5d31cc08b5ef448_full.jpg"
+                },
+                "wager": 40831,
+                "bets": 59
+            },
+            {
+                "user": {
+                    "id": 3739,
+                    "username": "3Fess",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIExZihnmAWBmn9mAyvIQNWdFerEJx73N-UmCtVvy8n4SvGkQ=s96-c"
+                },
+                "wager": 37797,
+                "bets": 109
+            },
+            {
+                "user": {
+                    "id": 1397,
+                    "username": "Daniel Stevens",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK4FrVvL8nnsZZV86Ux-aXmedXyVQ9kUaZk0zdM3MMVlbBz9pMx=s96-c"
+                },
+                "wager": 32436,
+                "bets": 5
+            },
+            {
+                "user": {
+                    "id": 261,
+                    "username": "Bill Deleter",
+                    "avatar": "https://avatars.steamstatic.com/871aab927310d6897b8086aa9510c955f131c84c_full.jpg"
+                },
+                "wager": 25405,
+                "bets": 205
+            },
+            {
+                "user": {
+                    "id": 15557,
+                    "username": "DUDETOUCHER57",
+                    "avatar": "https://avatars.steamstatic.com/db3f2fde7b4805c4a222cdd827df1c7a04784a4e_full.jpg"
+                },
+                "wager": 25377,
+                "bets": 55
+            },
+            {
+                "user": {
+                    "id": 11641,
+                    "username": "murtz233",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=926519"
+                },
+                "wager": 24990,
+                "bets": 152
+            },
+            {
+                "user": {
+                    "id": 7565,
+                    "username": "minionjake army",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLA7kaIbk8_-EOMt0yVFIBIttQ_AfWpjHDJWnYguk_3oNP9drDG=s96-c"
+                },
+                "wager": 21385,
+                "bets": 315
+            },
+            {
+                "user": {
+                    "id": 357,
+                    "username": "LOUD Lula",
+                    "avatar": "https://avatars.steamstatic.com/036f90ca300814a0b05643874b5e9b3a110ba3a8_full.jpg"
+                },
+                "wager": 20965,
+                "bets": 879
+            },
+            {
+                "user": {
+                    "id": 11717,
+                    "username": "Focused",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=690131"
+                },
+                "wager": 20891,
+                "bets": 24
+            },
+            {
+                "user": {
+                    "id": 1476,
+                    "username": "Chakijs",
+                    "avatar": "https://avatars.steamstatic.com/7a6670d592c92c2e6695df3870c633c4f647e50d_full.jpg"
+                },
+                "wager": 20759,
+                "bets": 17
+            },
+            {
+                "user": {
+                    "id": 2129,
+                    "username": "Toe terminator",
+                    "avatar": "https://avatars.steamstatic.com/e88189440621dc9e9c69b743fdd475e40bf10dec_full.jpg"
+                },
+                "wager": 20288,
+                "bets": 175
+            },
+            {
+                "user": {
+                    "id": 5678,
+                    "username": "escape",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocK06Msd9TaiQEn4ZTdYfLgZSt2utDzg9xZQotGND8JXKvP8uQ=s96-c"
+                },
+                "wager": 18565,
+                "bets": 102
+            },
+            {
+                "user": {
+                    "id": 361,
+                    "username": "Responseful B",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKqNXL9EgXMPAr6ygvvIn_wskKWDNn4xfHHGgB0h5Yig6IDYw=s96-c"
+                },
+                "wager": 18478,
+                "bets": 32
+            },
+            {
+                "user": {
+                    "id": 6389,
+                    "username": "somitrades",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=31828"
+                },
+                "wager": 18013,
+                "bets": 145
+            },
+            {
+                "user": {
+                    "id": 18451,
+                    "username": "Illwinfr Stfu",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLFAkCJ_5mVhlU8gZEhVhSi1I8vwai6JcpXgg5fTdnvEpHJ9A=s96-c"
+                },
+                "wager": 17288,
+                "bets": 18
+            },
+            {
+                "user": {
+                    "id": 5937,
+                    "username": "76561199216540221",
+                    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg"
+                },
+                "wager": 17167,
+                "bets": 136
+            },
+            {
+                "user": {
+                    "id": 22987,
+                    "username": "Ba0H0ang",
+                    "avatar": "https://avatars.steamstatic.com/2e2b3ecc7f63988ee131306be6aa8fadb9e86125_full.jpg"
+                },
+                "wager": 16431,
+                "bets": 21
+            },
+            {
+                "user": {
+                    "id": 16522,
+                    "username": "javaxa212",
+                    "avatar": "https://avatars.steamstatic.com/e56e84be78364fa8efaa85af020c46e4abaa148c_full.jpg"
+                },
+                "wager": 16057,
+                "bets": 256
+            },
+            {
+                "user": {
+                    "id": 3544,
+                    "username": "TheOrder",
+                    "avatar": "https://avatars.steamstatic.com/374721d3ac53687734aadb9bae84e40f0eb9375c_full.jpg"
+                },
+                "wager": 14275,
+                "bets": 54
+            },
+            {
+                "user": {
+                    "id": 16476,
+                    "username": "Dato",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI20AHpCOmdPTVI0h7tmGx557PyKQPfi2X5jpVn6Sz1aVkR_hNk=s96-c"
+                },
+                "wager": 13238,
+                "bets": 71
+            },
+            {
+                "user": {
+                    "id": 2829,
+                    "username": "Alone",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKwBbRjQm1ph_MirODzbVpkcNbTruz5NjSWBk9vvMJkW6Gxv0Js=s96-c"
+                },
+                "wager": 12342,
+                "bets": 44
+            },
+            {
+                "user": {
+                    "id": 5628,
+                    "username": "Top Nightly",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIW-laPb4UTuZEF9L2UDPDSxPeRxUZwR43R6eY1UO6GDIcc6w=s96-c"
+                },
+                "wager": 12025,
+                "bets": 147
+            },
+            {
+                "user": {
+                    "id": 21969,
+                    "username": "Ky0jur0Reng #splitsgg",
+                    "avatar": "https://avatars.steamstatic.com/7e332d120fe8036686e601bec960febcff6f8588_full.jpg"
+                },
+                "wager": 11674,
+                "bets": 13
+            },
+            {
+                "user": {
+                    "id": 24604,
+                    "username": "Asta Fr",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLvLCBNblfXc9LVimRGIXgwj54hVi1f2sFmB06E-QIYEXPxGQ=s96-c"
+                },
+                "wager": 11504,
+                "bets": 53
+            },
+            {
+                "user": {
+                    "id": 13840,
+                    "username": "Toe Sucker",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJxi1ireHw5BYs4kQEL_RvNCz3A4TkZFbeehih-LeimF92YDg=s96-c"
+                },
+                "wager": 9745,
+                "bets": 317
+            },
+            {
+                "user": {
+                    "id": 237,
+                    "username": "Scrapes",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=850907"
+                },
+                "wager": 9280,
+                "bets": 148
+            },
+            {
+                "user": {
+                    "id": 6657,
+                    "username": "Ravengoat",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=943468"
+                },
+                "wager": 8171,
+                "bets": 34
+            },
+            {
+                "user": {
+                    "id": 23936,
+                    "username": "Slagter Roni",
+                    "avatar": "https://avatars.steamstatic.com/7ead67e199d05f3ee575d29b0f229fbbecc38358_full.jpg"
+                },
+                "wager": 7023,
+                "bets": 67
+            },
+            {
+                "user": {
+                    "id": 10806,
+                    "username": "KillJoy",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLvSEVP7YQDq05QKT02fcdl50YsTS_6VRvObe23Q6PEEKncsQ=s96-c"
+                },
+                "wager": 6213,
+                "bets": 131
+            },
+            {
+                "user": {
+                    "id": 19545,
+                    "username": "Code: LukinhaSz (1$ FREE)",
+                    "avatar": "https://avatars.steamstatic.com/81465186a27831399ebdec9b5145c720f8d642ad_full.jpg"
+                },
+                "wager": 5433,
+                "bets": 7
+            },
+            {
+                "user": {
+                    "id": 7707,
+                    "username": "Badshotz70",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIPq-etKQcjuwQUERHik0rhjdvz0s9nFlw6_HTiQz4RqW6jT7e-=s96-c"
+                },
+                "wager": 5303,
+                "bets": 34
+            },
+            {
+                "user": {
+                    "id": 1729,
+                    "username": "koelk wokae",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKCXhyO840HBp0OWnuappyUu7ZyndYso0rq0yKKnWtWkpAc=s96-c"
+                },
+                "wager": 4614,
+                "bets": 93
+            },
+            {
+                "user": {
+                    "id": 4903,
+                    "username": "Honey_Lover",
+                    "avatar": "https://avatars.steamstatic.com/c00a1b4383bf7061448e84924074c7f2f8a4504b_full.jpg"
+                },
+                "wager": 4501,
+                "bets": 57
+            },
+            {
+                "user": {
+                    "id": 11925,
+                    "username": "wealthy",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=180614"
+                },
+                "wager": 4433,
+                "bets": 7
+            },
+            {
+                "user": {
+                    "id": 422,
+                    "username": "76561199715414041",
+                    "avatar": "https://avatars.steamstatic.com/c5a174e35dbacc16c969b9df2b799e953a849146_full.jpg"
+                },
+                "wager": 3787,
+                "bets": 120
+            },
+            {
+                "user": {
+                    "id": 4449,
+                    "username": "Clamfr",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=805369"
+                },
+                "wager": 3772,
+                "bets": 19
+            },
+            {
+                "user": {
+                    "id": 5917,
+                    "username": "Twoshotdon",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=389383"
+                },
+                "wager": 2899,
+                "bets": 30
+            },
+            {
+                "user": {
+                    "id": 23293,
+                    "username": "Leyfr",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=670239"
+                },
+                "wager": 2873,
+                "bets": 8
+            },
+            {
+                "user": {
+                    "id": 27036,
+                    "username": "Jukedz",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=124554"
+                },
+                "wager": 1875,
+                "bets": 2
+            },
+            {
+                "user": {
+                    "id": 24041,
+                    "username": "jinkarte",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=2397"
+                },
+                "wager": 1771,
+                "bets": 64
+            },
+            {
+                "user": {
+                    "id": 467,
+                    "username": "HPGAMERSYT0001",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=397357"
+                },
+                "wager": 1564,
+                "bets": 5
+            },
+            {
+                "user": {
+                    "id": 8833,
+                    "username": "VEDANT TECHNO",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLqR-DGcaC9ftLuWtWtoYwRTRycEyt-RXhVuyByESyK8UT6sw=s96-c"
+                },
+                "wager": 1540,
+                "bets": 6
+            },
+            {
+                "user": {
+                    "id": 1287,
+                    "username": "İtoshi Rin",
+                    "avatar": "https://avatars.steamstatic.com/f8d7bb29097d05fda55ccfa0160aa88f619023d2_full.jpg"
+                },
+                "wager": 1404,
+                "bets": 39
+            },
+            {
+                "user": {
+                    "id": 12504,
+                    "username": "SmokedPzyy",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=326621"
+                },
+                "wager": 1194,
+                "bets": 45
+            },
+            {
+                "user": {
+                    "id": 25594,
+                    "username": "Aidiens",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=317145"
+                },
+                "wager": 1194,
+                "bets": 2
+            },
+            {
+                "user": {
+                    "id": 25586,
+                    "username": "AIDSSS",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=785812"
+                },
+                "wager": 1182,
+                "bets": 2
+            },
+            {
+                "user": {
+                    "id": 25600,
+                    "username": "GREEN venom",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL28r5e239RrYchNDL_VuSJjksvlrPb7iP66FtjpGQtpSWztg=s96-c"
+                },
+                "wager": 1100,
+                "bets": 1
+            },
+            {
+                "user": {
+                    "id": 15046,
+                    "username": "temža",
+                    "avatar": "https://avatars.steamstatic.com/d073068ee2613fdabc182039f8f569498e0776f0_full.jpg"
+                },
+                "wager": 1012,
+                "bets": 3
+            },
+            {
+                "user": {
+                    "id": 404,
+                    "username": "PøŤ āŤø",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI_v8Z4ViM3ZmF7AG9VQAyCM9gTfTtBmRw-a2U8W4JHAnuENt62=s96-c"
+                },
+                "wager": 1000,
+                "bets": 28
+            },
+            {
+                "user": {
+                    "id": 23988,
+                    "username": "mehak222034232123",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=831937"
+                },
+                "wager": 991,
+                "bets": 28
+            },
+            {
+                "user": {
+                    "id": 10097,
+                    "username": "Marwan Alzorba",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKzAeLQO4qjgiBF19p6lJHOgPpvi0yegWDI5k1_f70rMIlDw=s96-c"
+                },
+                "wager": 891,
+                "bets": 32
+            },
+            {
+                "user": {
+                    "id": 24016,
+                    "username": "Jack",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJFfRbGF7Nxf5cCnX1RkiewhZRO5daDnCOzy3ltA3X4PoHF0Knk=s96-c"
+                },
+                "wager": 836,
+                "bets": 13
+            },
+            {
+                "user": {
+                    "id": 197,
+                    "username": "mula",
+                    "avatar": "https://avatars.steamstatic.com/db618aa29d88cd1c1244ebb0c9bb3c1be3bd2ddf_full.jpg"
+                },
+                "wager": 531,
+                "bets": 3
+            },
+            {
+                "user": {
+                    "id": 14193,
+                    "username": "45qkisgay",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=342919"
+                },
+                "wager": 529,
+                "bets": 4
+            },
+            {
+                "user": {
+                    "id": 24814,
+                    "username": "dwadwawg",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=113914"
+                },
+                "wager": 316,
+                "bets": 18
+            },
+            {
+                "user": {
+                    "id": 24271,
+                    "username": "vocemeligouuuou",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=551909"
+                },
+                "wager": 275,
+                "bets": 8
+            },
+            {
+                "user": {
+                    "id": 24199,
+                    "username": "sigmaaa",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=873639"
+                },
+                "wager": 184,
+                "bets": 21
+            },
+            {
+                "user": {
+                    "id": 18236,
+                    "username": "MADARA688",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=600971"
+                },
+                "wager": 173,
+                "bets": 1
+            },
+            {
+                "user": {
+                    "id": 6508,
+                    "username": "Jame",
+                    "avatar": "https://avatars.steamstatic.com/ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c_full.jpg"
+                },
+                "wager": 159,
+                "bets": 7
+            },
+            {
+                "user": {
+                    "id": 23894,
+                    "username": "fwaifkwkfawkkwfa",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=141119"
+                },
+                "wager": 159,
+                "bets": 21
+            },
+            {
+                "user": {
+                    "id": 8682,
+                    "username": "fleatedshea",
+                    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg"
+                },
+                "wager": 154,
+                "bets": 5
+            },
+            {
+                "user": {
+                    "id": 24018,
+                    "username": "wfjkfwakkdfdawam",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=926015"
+                },
+                "wager": 119,
+                "bets": 18
+            },
+            {
+                "user": {
+                    "id": 24067,
+                    "username": "jinkarate22",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=890062"
+                },
+                "wager": 80,
+                "bets": 14
+            },
+            {
+                "user": {
+                    "id": 24912,
+                    "username": "xamito492312394",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=88632"
+                },
+                "wager": 75,
+                "bets": 2
+            },
+            {
+                "user": {
+                    "id": 1475,
+                    "username": "Swxrup",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=876084"
+                },
+                "wager": 69,
+                "bets": 8
+            },
+            {
+                "user": {
+                    "id": 23903,
+                    "username": "rigih46078",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=303438"
+                },
+                "wager": 51,
+                "bets": 11
+            },
+            {
+                "user": {
+                    "id": 24148,
+                    "username": "fawdawdwa",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=779540"
+                },
+                "wager": 45,
+                "bets": 6
+            },
+            {
+                "user": {
+                    "id": 22470,
+                    "username": "The Chosen",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJI4JOtjnmyAHZsgEk5_NMYuF4oKCrHSRaIZb_C3HdrkqZJcA=s96-c"
+                },
+                "wager": 36,
+                "bets": 2
+            },
+            {
+                "user": {
+                    "id": 23996,
+                    "username": "peyiwac4123213",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=702018"
+                },
+                "wager": 36,
+                "bets": 7
+            },
+            {
+                "user": {
+                    "id": 24848,
+                    "username": "eafeafe",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=639295"
+                },
+                "wager": 27,
+                "bets": 4
+            },
+            {
+                "user": {
+                    "id": 24827,
+                    "username": "samil14538",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=47018"
+                },
+                "wager": 16,
+                "bets": 12
+            },
+            {
+                "user": {
+                    "id": 24132,
+                    "username": "oldvibes",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=220139"
+                },
+                "wager": 16,
+                "bets": 3
+            },
+            {
+                "user": {
+                    "id": 25041,
+                    "username": "fakwfkwkwfk",
+                    "avatar": "https://api.dicebear.com/9.x/avataaars-neutral/svg?backgroundColor=b6e3f4,c0aede,d1d4f9&seed=445278"
+                },
+                "wager": 11,
+                "bets": 4
+            },
+            {
+                "user": {
+                    "id": 209,
+                    "username": "rexi",
+                    "avatar": "https://avatars.steamstatic.com/5f1bef1c8e576b1466b7a18485b03c6a52a761a2_full.jpg"
+                },
+                "wager": 9,
+                "bets": 1
+            }
+        ],
+        "summary": {
+            "totalUsers": 98,
+            "activeUsers": 98,
+            "totalBets": 15457,
+            "totalWager": 25912451
+        },
+        "dateRange": {
+            "from": "2025-02-12T13:22:52.413Z",
+            "to": 1739971372413
+        },
+        "processingTime": 1408
+    }
+}
